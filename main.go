@@ -137,6 +137,8 @@ var nimModels = []struct {
 	{"nvidia/llama-3.1-nemotron-70b-instruct", "nvidia", 131072, 4096},
 	{"nvidia/nemotron-4-340b-instruct", "nvidia", 4096, 4096},
 	{"qwen/qwen2.5-72b-instruct", "qwen", 32768, 4096},
+	{"z-ai/glm-5.3", "z-ai", 131072, 8192},
+	{"z-ai/glm-5.3-flash", "z-ai", 131072, 8192},
 	{"google/gemma-3-12b-it", "google", 131072, 8192},
 	{"google/gemma-3-4b-it", "google", 131072, 8192},
 }

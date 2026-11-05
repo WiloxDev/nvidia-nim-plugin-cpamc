@@ -12,22 +12,18 @@ Plugin de **NVIDIA NIM** para **CLI PROXY API CONSOLE (CPAMC)** y el ecosistema 
 
 ---
 
-## 🌟 Modelos Soportados
+## 🎁 Tokens FREE y Créditos de NVIDIA NIM
 
-- `deepseek-ai/deepseek-r1`
-- `deepseek-ai/deepseek-v4.1-flash`
-- `deepseek-ai/deepseek-coder-6.7b-instruct`
-- `meta/llama-3.3-70b-instruct`
-- `meta/llama-3.1-405b-instruct`
-- `meta/llama-3.1-70b-instruct`
-- `meta/llama-3.1-8b-instruct`
-- `mistralai/mistral-large-2-instruct`
-- `mistralai/codestral-22b-instruct-v0.1`
-- `nvidia/llama-3.1-nemotron-70b-instruct`
-- `nvidia/nemotron-4-340b-instruct`
-- `qwen/qwen2.5-72b-instruct`
-- `google/gemma-3-12b-it`
-- `google/gemma-3-4b-it`
+NVIDIA ofrece créditos de inferencia gratuitos por cada cuenta creada en [build.nvidia.com](https://build.nvidia.com) con acceso inmediato sin costo a modelos punteros:
+
+- 🧠 **DeepSeek R1** (`deepseek-ai/deepseek-r1` - Razonamiento profundo / CoT)
+- ⚡ **DeepSeek V4.1 Flash** (`deepseek-ai/deepseek-v4.1-flash`)
+- 🦙 **Llama 3.3 70B** (`meta/llama-3.3-70b-instruct`) & **Llama 3.1 405B**
+- 🤖 **Nemotron 70B & 340B** (`nvidia/llama-3.1-nemotron-70b-instruct`)
+- 🇨🇳 **GLM 5.3 & GLM 5.3 Flash** (`z-ai/glm-5.3`, `z-ai/glm-5.3-flash`)
+- 🌊 **Mistral Large 2 & Codestral** (`mistralai/mistral-large-2-instruct`)
+- 🌐 **Qwen 2.5 72B** (`qwen/qwen2.5-72b-instruct`)
+- 💎 **Gemma 3** (`google/gemma-3-12b-it`, `google/gemma-3-4b-it`)
 
 ---
 
